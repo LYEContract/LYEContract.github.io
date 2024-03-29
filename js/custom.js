@@ -20,7 +20,7 @@ $(".owl-carousel").owlCarousel({
         0: {
             items: 1
         },
-        1000: {
+        500: {
             items: 2
         }
     }

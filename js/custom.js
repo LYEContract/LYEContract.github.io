@@ -12,7 +12,7 @@ getYear();
 $(".owl-carousel").owlCarousel({
     loop: false,
     margin: 20,
-    nav: true,
+    nav: false,
     navText: [],
     autoplay: false,
     autoplayHoverPause: false,
@@ -20,7 +20,7 @@ $(".owl-carousel").owlCarousel({
         0: {
             items: 1
         },
-        500: {
+        250: {
             items: 2
         }
     }
